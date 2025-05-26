@@ -15,7 +15,7 @@ fast and lightweight <ins>multimodal LLM</ins> inference engine for mobile and e
 [![Website](https://img.shields.io/badge/website-visit-green)](https://ubiquitouslearning.github.io/mllm_website/)
 [![Documentation](https://img.shields.io/badge/view-docs-blue)](https://ubiquitouslearning.github.io/mllm_website/introduction/getstarted/)
 [![Android App](https://img.shields.io/badge/android-app-pink)](https://github.com/lx200916/ChatBotApp/)
-[![Actions Status](https://github.com/UbiquitousLearning/mllm/workflows/Tests/badge.svg)](https://github.com/UbiquitousLearning/mllm/actions)
+[![Actions Status](https://github.com/UbiquitousLearning/mllm/workflows/Tests/badge.svg)](https://github.com/szdxs114514/mllm/actions)
 </h4>
 
 - Plain C/C++ implementation without dependencies
